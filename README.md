@@ -19,7 +19,6 @@ This project focuses on **objective detection of Attention Deficit Hyperactivity
 - **Feature_extraction_ANUBHAV_GUPTA.ipynb** – EEG feature extraction
 - **eeg_preprocessed_data.csv** – Cleaned EEG signals
 - **preprocessed_eeg_data.csv** – Final feature dataset
-- **adhdata_original_dataset.csv** – Original dataset
 - **Report_ADHD_Detection_using_EEG_Signals.pdf** – Project report
 - **Poster_ADHD_Detection.png** – Project poster
 
